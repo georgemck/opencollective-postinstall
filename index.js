@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+// #hash !exclamationpoint /usr/bin/env node
 
 function isTrue(value) {
   return !!value && value !== "0" && value !== "false"
